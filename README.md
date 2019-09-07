@@ -17,7 +17,11 @@ Cosine-similarity is what i used, for compare two code like document, each line 
 
 By using cosine-similarity, it compares 2 vector's difference, so convert whole line as string, and seperate in small groups.
 For example,"This is a string." can be convert in 2-grams [Th][hi][is][s ][ i][is] and so on. If the grams comes to 3-grams [Thi][his][is ][s a] will be totally different similarity.
+
+#Sample
 <div><img src="https://github.com/Kasim-An/cosc-4f00/blob/master/1.png"></div>
 <div><img src="https://github.com/Kasim-An/cosc-4f00/blob/master/2.png"></div>
 <div><img src="https://github.com/Kasim-An/cosc-4f00/blob/master/3.png"></div>
 <div><img src="https://github.com/Kasim-An/cosc-4f00/blob/master/4.png"></div>
+
+<div><img src="https://github.com/Kasim-An/cosc-4f00/blob/master/sample.jpg"></div>
