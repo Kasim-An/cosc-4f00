@@ -12,3 +12,5 @@ For example, in Java "System.out.println( "Hello, World" );" and in C+ "printf( 
 
 # Main Calculation
 Cosine-similarity is what i used, for compare two code like document, each line should be consider similarity, and for lines, each word using is the main consider point. Trade whole line as a string and seperate parts into array, it called N-grams.
+
+<div><img src="https://github.com/Kasim-An/cosc-4f00/blob/master/cosine-similarity.png"></div>
