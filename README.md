@@ -26,3 +26,9 @@ For example,"This is a string." can be convert in 2-grams [Th][hi][is][s ][ i][i
 
 # Others
 Details will be show in <Document for mantis.docx> and <Mantisppt.pptx>
+
+# Results
+
+<div><img src="https://github.com/Kasim-An/cosc-4f00/blob/master/translatetoken.jpg"></div>
+<div><img src="https://github.com/Kasim-An/cosc-4f00/blob/master/result.jpg"></div>
+<div><img src="https://github.com/Kasim-An/cosc-4f00/blob/master/result2.jpg"></div>
