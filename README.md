@@ -14,3 +14,10 @@ For example, in Java "System.out.println( "Hello, World" );" and in C+ "printf( 
 Cosine-similarity is what i used, for compare two code like document, each line should be consider similarity, and for lines, each word using is the main consider point. Trade whole line as a string and seperate parts into array, it called N-grams.
 
 <div><img src="https://github.com/Kasim-An/cosc-4f00/blob/master/cosine-similarity.png"></div>
+
+By using cosine-similarity, it compares 2 vector's difference, so convert whole line as string, and seperate in small groups.
+For example,"This is a string." can be convert in 2-grams [Th][hi][is][s ][ i][is] and so on. If the grams comes to 3-grams [Thi][his][is ][s a] will be totally different similarity.
+<div><img src="https://github.com/Kasim-An/cosc-4f00/blob/master/1.png"></div>
+<div><img src="https://github.com/Kasim-An/cosc-4f00/blob/master/2.png"></div>
+<div><img src="https://github.com/Kasim-An/cosc-4f00/blob/master/3.png"></div>
+<div><img src="https://github.com/Kasim-An/cosc-4f00/blob/master/4.png"></div>
