@@ -26,7 +26,7 @@ For example,"This is a string." can be convert in 2-grams [Th][hi][is][s ][ i][i
 
 # Others
 Details will be show in <Document for mantis.docx> and <Mantisppt.pptx>
-
+There are multiple parameters can be control, this turn I get pass rate to 95% means similar higher than 85% will be detected, and grams set to 4. Each parameter changes will reference later result.
 # Results
 
 <div><img src="https://github.com/Kasim-An/cosc-4f00/blob/master/translatetoken.jpg"></div>
