@@ -25,3 +25,6 @@ For example,"This is a string." can be convert in 2-grams [Th][hi][is][s ][ i][i
 <div><img src="https://github.com/Kasim-An/cosc-4f00/blob/master/4.png"></div>
 
 <div><img src="https://github.com/Kasim-An/cosc-4f00/blob/master/sample.jpg"></div>
+
+#Others
+Details will be show in <><>
