@@ -11,4 +11,4 @@ The main goal for this program is to compare two code and calculate the similari
 For example, in Java "System.out.println( "Hello, World" );" and in C+ "printf( "Hello, world" );" is in the same "grammar", like in English's and Chinese's. An other example is in same language, in Java if define an array it has at least 2 ways to define, but same result.
 
 # Main Calculation
-Cosine-similarity is what i used, for compare two code
+Cosine-similarity is what i used, for compare two code like document, each line should be consider similarity, and for lines, each word using is the main consider point. Trade whole line as a string and seperate parts into array, it called N-grams.
